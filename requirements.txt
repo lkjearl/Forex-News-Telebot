@@ -1,0 +1,8 @@
+asyncio
+beautifulsoup4
+dotenv
+python-telegram-bot
+requests
+schedule
+spacy
+pupputeer
